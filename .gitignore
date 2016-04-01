@@ -20,6 +20,7 @@ bin/
 *.ipr
 .idea
 out
+*.log
 
 # Eclipse
 .project
